@@ -36,24 +36,21 @@ const translations = {
     remove: "O'chirish",
     clearCart: "Savatni tozalash",
     
-    // Likes
     likesTitle: "Yoqtirilgan mahsulotlar",
     likesEmpty: "Yoqtirilgan mahsulotlar yo'q",
     
-    // Footer
     aboutUs: "Biz haqimizda",
     contact: "Aloqa",
     privacy: "Maxfiylik siyosati",
     terms: "Foydalanish shartlari",
     
-    // Toast messages
     addedToCart: "Mahsulot savatga qo'shildi",
     removedFromCart: "Mahsulot savatdan o'chirildi",
     liked: "Mahsulot yoqtirildi",
     unliked: "Mahsulot yoqtirilmadi",
   },
   ru: {
-    // Navbar
+    
     home: "Главная",
     cart: "Корзина",
     likes: "Избранное",
